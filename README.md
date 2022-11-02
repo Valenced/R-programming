@@ -1,2 +1,2 @@
 # R-programming
-Location of all my r scripts and programs  
+Location of all my R scripts and programs  
